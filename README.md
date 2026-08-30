@@ -24,6 +24,14 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 An end-to-end data auditing, validation, and remediation pipeline for e-commerce transactional customer data. This project systematically addresses missingness, demographic range violations, and financial reconciliation discrepancies while preserving operational edge cases for downstream analysis.
 
 
+## 👤 Author
+
+* **Ali Ashrafi**
+  * ✉️ **Email:** [your.email@example.com](mailto:your.email@example.com)
+  * 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+  * 🐙 **GitHub:** [@your-github-username](https://github.com/your-github-username)
+  * 📍 **Location:** Iran (Open to Relocation / Remote Work)
+
 
 
 
