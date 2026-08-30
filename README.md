@@ -1,10 +1,7 @@
-*متن مورب (Italic)* یا _متن مورب_
-**متن ضخیم و بولد (Bold)** یا __متن بولد__
-***متن بولد و مورب همزمان***
-~~متن خط‌خورده (Strikethrough)~~
-متن عادی با یک عبارت `کد درون‌خطی (Inline Code)` داخل متن
 
-*OK*
-**OK**
-***OK***
-`OK`
+`
+```markdown
+```bash
+# دستورات ترمینال
+python -m venv venv
+pip install -r requirements.txt
