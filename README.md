@@ -1,6 +1,5 @@
 # project-01-data-cleaning
-
-https://img.shields.io/badge/github-repo-blue?logo=github
+:recycle:
 
 ## :rocket:E-Commerce Customer Data Integrity & Cleaning Pipeline
 ---
