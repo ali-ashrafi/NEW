@@ -1,6 +1,12 @@
+<!-- لینک متنی -->
+[نام لینک](https://github.com)
 
-```python
-import pandas as pd
+<!-- لینک همراه با توضیح (Tooltip) -->
+[نام لینک](https://github.com "توضیح هنگام هاور موس")
 
-df = pd.read_excel("data.xlsx")
-print(df.shape)
+<!-- قرار دادن تصویر (علامت ! در ابتدا قرار می‌گیرد) -->
+![متن جایگزین عکس](path/to/image.png)
+
+<!-- تصویر لینک‌دار (کلیک روی عکس هدایت کند) -->
+[![متن عکس](image.png)](https://target-url.com)
+
