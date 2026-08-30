@@ -1,5 +1,7 @@
-فرمول درون خطی: $y = mx + b$ یا میانگین $\bar{x} = \frac{\sum x_i}{n}$
+# project-01-data-cleaning
 
-بلوک فرمول اختصاصی (وسط‌چین):
-$$ \sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (x_i - \mu)^2} $$
-
+## Principant
+** name : ** ali ashrafi
+** Github Name : ** https://github.com/ali-ashrafi
+** Development env : ** Jupyter Notebook
+** Python env : ** StudyBuild 
