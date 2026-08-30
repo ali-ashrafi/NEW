@@ -1,7 +1,7 @@
 # project-01-data-cleaning
 
 ## Principant
-** name : ** ali ashrafi
+**name :** ali ashrafi
 
 ** Github Name : ** https://github.com/ali-ashrafi
 
