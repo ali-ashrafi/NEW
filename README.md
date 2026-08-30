@@ -1,8 +1,8 @@
 
 
-
+---
 
 ``` QUALITY
-COLUMN1 | COLUMN2 | COLUMN3 |
-چپ چین | راست چین | وسط چین |
+| COLUMN1 | COLUMN2 | COLUMN3 |
+| :--- | :---: | ---: |
 100 | 200 | 300
