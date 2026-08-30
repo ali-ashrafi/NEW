@@ -1,5 +1,5 @@
 
-
+```
 ---
 ### ۶. (Tables)
 
@@ -9,8 +9,8 @@
 | 100 | 200 | 300 |
 
 ---
-
-
+```
+```
 ---
 
 ## 🛠️ Data Quality Audit Matrix
@@ -24,3 +24,4 @@
 | **Data Types** | String dates & implicit float types | Cast to native `datetime64[ns]` and `int64` | Optimized native dtypes |
 
 ---
+```
