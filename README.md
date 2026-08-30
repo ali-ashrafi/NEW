@@ -1,15 +1,11 @@
 
-```
-# دستورات ترمینال
-python -m venv venv
-pip install -r requirements.txt
-```
+---
 
-
-
+### ۶. جدول‌ها (Tables)
+ساخت جدول با کاراکترهای `|` (پایپ) و `-` (خط تیره):
 ```markdown
-```python
-import pandas as pd
+| نام ستون ۱ | نام ستون ۲ | مقدار پیش‌فرض |
+| :--- | :---: | ---: |
+| چپ‌چین | وسط‌چین | راست‌چین |
+| مقدار A | مقدار B | ۱۲,۰۰۰ |
 
-df = pd.read_excel("data.xlsx")
-print(df.shape)
