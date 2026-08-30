@@ -1,4 +1,4 @@
----
+
 
 ## 🛠️ Data Quality Audit Matrix
 
@@ -10,5 +10,5 @@
 | **Revenue Consistency** | Arithmetic discrepancies in spending | Re-computed using Ground-Truth Order Value | 100% mathematically verified |
 | **Data Types** | String dates & implicit float types | Cast to native `datetime64[ns]` and `int64` | Optimized native dtypes |
 
----
+
 
