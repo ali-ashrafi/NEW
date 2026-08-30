@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 
 ```markdown
-#python
+```python
 import pandas as pd
 
 df = pd.read_excel("data.xlsx")
