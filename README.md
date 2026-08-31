@@ -17,14 +17,11 @@ Raw tabular business datasets frequently suffer from upstream recording failures
 ### Key Remediation Highlights:
 - **Deduplication & Index Integrity:** Dropped exact duplicate records and verified primary key uniqueness across `customer_id`.
 - **Demographic Normalization:** Flagged physiologically impossible age records ($age > 120$) and imputed missing demographic values using the robust median ($45.0$).
-- **Deterministic Revenue Reconciliation:** Reconstructed corrupt and missing aggregate expenditures deterministically via: 
-  $$\text{total\_spending} = \text{purchase\_count} \times \text{avg\_order\_value}$$
+- **Deterministic Revenue Reconciliation:** Reconstructed corrupt and missing aggregate expenditures deterministically via:
+  $$S_{\text{total}} = N_{\text{purchases}} \times \bar{V}_{\text{order}}$$
 
-* **Operational Edge-Case Handling:** Preserved and logged ambiguous records where:
-  $$\text{returned\_items} > \text{purchase\_count}$$
-
-  $$\text{total\_spending} = \text{purchase\_count} \times \text{avg\_order\_value}$$
-- **Operational Edge-Case Handling:** Preserved and logged ambiguous records where $\text{returned\_items} > \text{purchase\_count}$ for domain-expert review without corrupting base transaction tables.
+- **Operational Edge-Case Handling:** Preserved and logged ambiguous operational records satisfying the anomaly condition:
+  $$N_{\text{returned}} > N_{\text{purchases}}$$
 
 ---
 
