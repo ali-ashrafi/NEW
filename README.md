@@ -94,6 +94,35 @@ Launch Jupyter Lab/Notebook and execute the cleaning workflow:
 jupyter notebook notebooks/01_data_cleaning_and_audit.ipynb
 ```
 
+## Getting Started
+
+```bash
+# 1. Create and activate a virtual environment
+python -m venv .venv
+source .venv/bin/activate        # Linux / macOS
+.venv\Scripts\activate           # Windows
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Launch Jupyter Lab
+jupyter lab notebook/analysis_notebook_clean.ipynb
+```
+
+Run the standalone pipeline:
+
+```bash
+python cleaning_pipeline.py      # reads first_dataset.xlsx, writes cleaned_dataset.xlsx
+```
+
+
+
+
+
+
+
+
+
 ## 🛠️ Built With 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
