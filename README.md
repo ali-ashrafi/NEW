@@ -41,7 +41,7 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
   * 📍 **Location:** Iran *(Open to Relocation / Remote)*
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
 
 
 
