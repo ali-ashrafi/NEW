@@ -58,17 +58,15 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776ab?style=flat-square&logo=python&logoColor=white)
 
 
+
+
+
 ## 🛠️ Built With
 
-## 🛠️ Built With
-
-* ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation_%26_Cleaning-150458?style=flat-square&logo=pandas&logoColor=white)
-* ![NumPy](https://img.shields.io/badge/NumPy-Mathematical_%26_Vectorized_Operations-013243?style=flat-square&logo=numpy&logoColor=white)
-* ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-11557c?style=flat-square&logo=python&logoColor=white)
-* ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Analysis_%26_EDA-3776ab?style=flat-square&logo=python&logoColor=white)
-
-
-
+* ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation_%26_Cleaning-555555?style=flat-square&logo=pandas&logoColor=white)
+* ![NumPy](https://img.shields.io/badge/NumPy-Mathematical_Operations-555555?style=flat-square&logo=numpy&logoColor=white)
+* ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-555555?style=flat-square&logo=python&logoColor=white)
+* ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_EDA-555555?style=flat-square&logo=python&logoColor=white)
 
 
 
