@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Seaborn-3776ab?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
-:recycle:
 
 ## :rocket:E-Commerce Customer Data Integrity & Cleaning Pipeline
 ---
