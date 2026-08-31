@@ -6,7 +6,6 @@
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Gmail](https://img.shields.io/badge/Gmail-ali.ashrafi%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.ashrafi@email.com)
 
 
 
@@ -30,6 +29,7 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 ## 👤 Author
 
 * **Ali Ashrafi**
+
 [![Email](https://img.shields.io/badge/Gmail-ali.ashrafi%40email.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.ashrafi@email.com)
 
   * 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
@@ -37,8 +37,20 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
   * 📍 **Location:** Iran (Open to Relocation / Remote Work)
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Ashrafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
 
+## 📬 Contact & Connect
 
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ali_Ashrafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-your.email%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+</p>
 
 
 
