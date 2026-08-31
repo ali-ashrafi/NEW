@@ -24,15 +24,6 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 An end-to-end data auditing, validation, and remediation pipeline for e-commerce transactional customer data. This project systematically addresses missingness, demographic range violations, and financial reconciliation discrepancies while preserving operational edge cases for downstream analysis.
 
 
-## 👤 Author
-
-* **Ali Ashrafi**
-
-[![GitHub](https://img.shields.io/badge/GitHub-AliAshrafi-6e5494?style=flat-square&logo=github&logoColor=white&labelColor=24292e)](https://github.com/your-github-username)
-
-
-
-
 ## 👤 Author & Contact
 
 * **Ali Ashrafi**
@@ -42,7 +33,7 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
   * 📍 **Location:** Iran *(Open to Relocation / Remote)*
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+
 
 
 
@@ -61,6 +52,10 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 </p>
 
 
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776ab?style=flat-square&logo=python&logoColor=white)
 
 
 
