@@ -45,18 +45,16 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali_Ashrafi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e232a" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-your.email%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1e232a" alt="Gmail" />
   </a>
   <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AliAshrafi-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://maps.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Location-Tehran%2C_Iran-555555?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white&labelColor=1e232a" alt="GitHub" />
   </a>
 </p>
+
 
 
 
