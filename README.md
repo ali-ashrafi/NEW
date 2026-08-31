@@ -1,19 +1,5 @@
 # project-01-data-cleaning
 
-## 🛠️ Built With / Tech Stack
-
-<p align="left">
-  <!-- Pandas -->
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <!-- NumPy -->
-  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <!-- Matplotlib -->
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-  <!-- Seaborn -->
-  <img src="https://img.shields.io/badge/Seaborn-3776ab?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
-</p>
-
-
 ## :rocket:E-Commerce Customer Data Integrity & Cleaning Pipeline
 ---
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
