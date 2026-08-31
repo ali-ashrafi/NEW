@@ -30,7 +30,8 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 
 * **Ali Ashrafi**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ali_Ashrafi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-AliAshrafi-181717?style=flat-square&logo=github&logoColor=white&labelColor=1e232a)](https://github.com/your-github-username)
+
 
 ## 👤 Author & Contact
 
