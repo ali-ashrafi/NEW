@@ -49,17 +49,18 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 
 
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e232a" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1e232a" alt="Gmail" />
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white&labelColor=1e232a" alt="GitHub" />
-  </a>
-</p>
+<!-- Pandas -->
+<img src="https://img.shields.io/badge/Data-pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=24292e" alt="Pandas" />
+
+<!-- NumPy -->
+<img src="https://img.shields.io/badge/Math-numpy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=24292e" alt="NumPy" />
+
+<!-- Matplotlib -->
+<img src="https://img.shields.io/badge/Plot-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white&labelColor=24292e" alt="Matplotlib" />
+
+<!-- Seaborn -->
+<img src="https://img.shields.io/badge/Viz-Seaborn-3776ab?style=flat-square&logo=python&logoColor=white&labelColor=24292e" alt="Seaborn" />
+
 
 
 
