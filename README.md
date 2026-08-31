@@ -58,6 +58,12 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776ab?style=flat-square&logo=python&logoColor=white)
 
 
+## 🛠️ Built With
+
+* ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) — **Data Manipulation & Cleaning:** Handling missing values, schema validation, and tabular transformations.
+* ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) — **Mathematical Computing:** Array operations and fast vectorized calculations.
+* ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) — **Data Visualization:** Structural plotting, canvas configuration, and visual exports.
+* ![Seaborn](https://img.shields.io/badge/Seaborn-3776ab?style=flat-square&logo=python&logoColor=white) — **Statistical EDA:** Distribution density, box plots, and feature correlation insights.
 
 
 
