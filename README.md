@@ -34,10 +34,6 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 
 
 
-
-
-
-
 ## 🛠️ Built With
 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -47,6 +43,7 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 
 
 
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
