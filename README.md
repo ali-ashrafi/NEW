@@ -30,7 +30,7 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 
 * **Ali Ashrafi**
 
-[![Email](https://img.shields.io/badge/Gmail-ali.ashrafi%40email.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.ashrafi@email.com)
+[![Email](https://img.shields.io/badge/Gmail-ali.ashrafi%40email.com-blue?style=flat-square&logo=gmail&logoColor=white)(mailto:ali.ashrafi@email.com)
 
 ## 👤 Author & Contact
 
