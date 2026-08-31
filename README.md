@@ -38,7 +38,7 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 
 
 
-## 🛠️ Built With / Tech Stack
+## 🛠️ Built With
 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
