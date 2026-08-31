@@ -49,17 +49,19 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 
 
 
-<!-- Pandas -->
-<img src="https://img.shields.io/badge/Data-pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=24292e" alt="Pandas" />
+## 🛠️ Built With / Tech Stack
 
-<!-- NumPy -->
-<img src="https://img.shields.io/badge/Math-numpy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=24292e" alt="NumPy" />
+<p align="left">
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <!-- Matplotlib -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+  <!-- Seaborn -->
+  <img src="https://img.shields.io/badge/Seaborn-3776ab?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+</p>
 
-<!-- Matplotlib -->
-<img src="https://img.shields.io/badge/Plot-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white&labelColor=24292e" alt="Matplotlib" />
-
-<!-- Seaborn -->
-<img src="https://img.shields.io/badge/Viz-Seaborn-3776ab?style=flat-square&logo=python&logoColor=white&labelColor=24292e" alt="Seaborn" />
 
 
 
