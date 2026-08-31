@@ -61,14 +61,6 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 
 
 
-## 🛠️ Built With
-
-* ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation_%26_Cleaning-555555?style=flat-square&logo=pandas&logoColor=white)
-* ![NumPy](https://img.shields.io/badge/NumPy-Mathematical_Operations-555555?style=flat-square&logo=numpy&logoColor=white)
-* ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-555555?style=flat-square&logo=python&logoColor=white)
-* ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_EDA-555555?style=flat-square&logo=python&logoColor=white)
-
-
 
 
 
