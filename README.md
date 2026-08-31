@@ -7,8 +7,8 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Gmail](https://img.shields.io/badge/Gmail-ali.ashrafi%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.ashrafi@email.com)
-[![Email](https://img.shields.io/badge/Email-ali.ashrafi%40email.com-blue?style=flat-square&logo=minutemailer&logoColor=white)](mailto:ali.ashrafi@email.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-ali.ashrafi%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ali.ashrafi@outlook.com)
+[![Email](https://img.shields.io/badge/Gmail-ali.ashrafi%40email.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.ashrafi@email.com)
+
 
 ## 📬 Connect with Me
 
