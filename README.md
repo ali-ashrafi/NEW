@@ -55,17 +55,25 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 
 ## 📬 Connect with Me
 
+---
+
+## 📬 Connect with Me
+
+---
+
+## 📬 Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-238636?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
   </a>
 </p>
 
