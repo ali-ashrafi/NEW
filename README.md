@@ -47,19 +47,6 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 
 
 
----
-
-
-
----
-
-## 📬 Connect with Me
-
----
-
-## 📬 Connect with Me
-
----
 
 ## 📬 Connect with Me
 
@@ -78,6 +65,23 @@ An end-to-end data auditing, validation, and remediation pipeline for e-commerce
 </p>
 
 
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF3B30?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-6e5494?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 
 
